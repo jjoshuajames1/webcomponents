@@ -1,0 +1,1 @@
+import"../../bundle.esm-DRG8Ni6S.js";let e="";inp1.addEventListener("input",t=>{t.target.value.length<=3&&(e=t.target.value),inp1.value=e,inp2.value=e});inp2.addEventListener("input",t=>{t.target.value.length<=3&&(e=t.target.value),inp1.value=e,inp2.value=e});
